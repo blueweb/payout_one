@@ -1,0 +1,9 @@
+# JetBrains IDE IntelliJ
+.idea
+
+# Releases
+Releases/
+
+# dev files
+index.php
+/vendor/

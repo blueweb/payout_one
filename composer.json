@@ -1,0 +1,24 @@
+{
+  "name": "blueweb/payout_one",
+  "type": "library",
+  "description": "Payout API Client PHP Library",
+  "keywords": [
+	"payout_one",
+	"blueweb"
+  ],
+  "license": "MIT",
+  "require": {
+	"php": "^7.4"
+  },
+  "authors": [
+	{
+	  "name": "Filip Nešťák",
+	  "email": "filip.nestak202@gmail.com"
+	}
+  ],
+  "autoload": {
+	"classmap": [
+	  "src/"
+	]
+  }
+}
